@@ -1,0 +1,134 @@
+
+* {
+    color: lightsalmon;
+    text-decoration: none;
+}
+
+/* Type Selectors */
+
+body {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+h1 {
+    margin-left: 190px; 
+}
+
+h3 {
+    font-size: 50px;
+    margin-top: 200px;
+    padding-left: 20px;
+}
+
+ul {
+    float: left;
+    text-align: right;
+    margin-top: 5px;
+    
+}
+
+address {
+    text-align: center;
+}
+
+footer {
+    text-align: center;
+}
+
+
+/* Class Selectors */
+
+.banner {
+    width: 1500px;
+    height: 400px;
+    max-width: 2000px;
+    margin-bottom: 50px;
+    margin-left: 200px;
+    
+}
+
+.cap {
+    display: inline-flex;
+    height: 500px;
+    width: 500px;
+    margin-left: 190px;
+}
+
+.latte {
+    display: inline-flex;
+    height: 500px;
+    width: 500px;
+}
+
+.lemonade {
+    display: inline-flex;
+    height: 500px;
+    width: 500px;
+}
+
+.shop {
+    width: 500px;
+    height: 750px;
+    margin-top: 50px;
+    margin-left: 190px;
+}
+
+.intro {
+  float: left;
+  width: 500px;
+  height: 50%;
+  text-align: center;
+  text-indent: 0;
+  margin: 0.5em;
+  padding: 0.5em;
+  margin-top: 250px;
+  font-weight: bold;
+  font-size: 25px;
+}
+
+.footer_banner {
+    width: 1500px;
+    height: 400px;
+    max-width: 2000px;
+    margin-bottom: 50px;
+    margin-left: 190px;
+    margin-top: 50px;
+}
+
+.hours {
+    float: left;
+    text-align: center;
+    margin-top: 50px;
+    font-size: 25px;
+}
+
+.contact {
+    text-align: center;
+}
+
+.topnav {
+    float: right;
+    font-size: 20px;
+    text-align: center;
+    padding-right: 20px;
+}
+
+/* a:link {
+    color: lightsalmon;
+}
+
+a:visited {
+    color: crimson;
+}
+
+a:hover {
+    color: tan;
+} */
+
+/* a:active {
+    color: skyblue;
+}
+
+a:focus {
+    color: darkkhaki;
+} */
